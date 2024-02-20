@@ -1,0 +1,17 @@
+{
+  "name": "natours_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.71.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
